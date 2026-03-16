@@ -1,4 +1,4 @@
-const calculateMean = require("./mean")
+const calculateMean = require("./mean");
 
 test("calculates the mean of a list of numbers", () => {
   const list = [3, 50, 7];
